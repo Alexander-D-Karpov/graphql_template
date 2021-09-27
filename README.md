@@ -1,2 +1,2 @@
 # graphql_template
->litle project to show the exa,ple of django graphql api
+>little project to show the example of django graphql api
